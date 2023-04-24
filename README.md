@@ -14,5 +14,9 @@ It has a few signs loaded i.e: the entire alphabet, hello, my, name, welcome, th
 ## Tech used
 
 The UI was made with kivy==2.1.0.
+
 The graphics pipeline was adapted from code obtained from the kivy3 library.
-The animator code was 
+
+The animation code was adapted from xing-shuai's collada animator on github.
+
+
