@@ -7,7 +7,7 @@ I call it an alpha but in reality it's a pre-alpha that demonstrates the concept
 It has a few signs loaded i.e: the entire alphabet, hello, my, name, welcome, thank+you(specifically like this no other versions of thank you work), you, interpreter, me, meet, restroom, this
 
 ### Example sentences: 
-* Hello my name is _your name(Make sure to capitalise the first letter for it to detect that it is a proper noun)._
+* Hello my name is _your name_ (Make sure to capitalise the first letter for it to detect that it is a proper noun).
 * Nice to meet you.
 * This is a sign language interpreter.
 
