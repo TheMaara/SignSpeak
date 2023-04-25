@@ -11,6 +11,21 @@ It has a few signs loaded i.e: the entire alphabet, hello, my, name, welcome, th
 * Nice to meet you.
 * This is a sign language interpreter.
 
+## Download
+
+GoogleDrive: [Download](https://drive.google.com/file/d/1XkbukJH-xx8qgCM7yv9fJg2OeFeKijm3/view?usp=sharing)
+
+
+## How to use 
+
+[1] Unzip the zip file and look for SignSpeak.exe
+
+[2] Double-click SignSpeak.exe wait for it to load and after that, you'll know what to do 😉
+
+
+If you still need more explicit directions I have attatched a link to a youtube video showing exactly what to do below.
+
+
 ## Tech used
 
 The UI was made with kivy==2.1.0.
@@ -18,15 +33,6 @@ The UI was made with kivy==2.1.0.
 The graphics pipeline was adapted from code obtained from the kivy3 library.
 
 The animation code was adapted from xing-shuai's collada animator on github.
-
-## How to use 
-
-Unzip the zip file and look for SignSpeak.exe
-
-Double-click SignSpeak.exe wait for it to load and after that, you'll know what to do 😉
-
-
-If you still need more explicit directions I have attatched a link to a youtube video showing exactly what to do below.
 
 
 ## The Future
