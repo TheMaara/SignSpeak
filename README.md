@@ -30,6 +30,9 @@ GoogleDrive: [Download](https://drive.google.com/file/d/1XkbukJH-xx8qgCM7yv9fJg2
 
 If you still need more explicit directions I have attatched a link to a youtube video showing exactly what to do below.
 
+[![2023-04-25 08-18-46 mkv_20230425_085420 609](https://user-images.githubusercontent.com/68475422/234186787-e2080331-316d-4404-b269-41c73c7b2b34.png)](https://youtu.be/LUpybEvsa44)
+
+
 
 ## Tech used
 
