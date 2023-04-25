@@ -53,7 +53,7 @@ I shall be adding more signs to it's vocabulary so that you can hold more meanin
 ## Bye bye
 
 Thanks to all those who've supported me over the span of making this but I'm also open to making new friends. 
-Send me an email at cubicmaara@gmail.com or a connect request on linkedin( Mark Maara ) if you want to get in touch.
+Send me an email at cubicmaara@gmail.com or a connect request on linkedin( [Mark Maara](https://www.linkedin.com/in/mark-maara-42b235153/) ) if you want to get in touch.
 
 
 Hasta la vista.
