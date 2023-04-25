@@ -2,9 +2,8 @@
 
 ## The Alpha is here!
 
-<p align="center">
 ![signspeak6](https://user-images.githubusercontent.com/68475422/234178174-db0adc8a-7ca3-46ad-9054-745abb83fbd4.png)
- </p>
+
 
 The SignSpeak text to sign language module takes in text and produces sign language output using a rendeered 3D model that uses a custom graphics engine and graphics pipeline.
 
