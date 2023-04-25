@@ -2,7 +2,12 @@
 
 ## The Alpha is here!
 
-I call it an alpha but in reality it's a pre-alpha that demos the concept of what I am trying to achieve.
+![signspeak5](https://user-images.githubusercontent.com/68475422/234177991-050db8ae-5846-4ae0-b65d-71d9b1e107b5.png)
+
+
+The SignSpeak text to sign language module takes in text and produces sign language output using a rendeered 3D model that uses a custom graphics engine and graphics pipeline.
+
+It's an alpha and not a beta because it just demos the concept of what I am trying to achieve but is not yet ready for general public use. It exists for enthusiasts or people who are following the development of the project.
 
 It has a few signs loaded i.e: the entire alphabet, hello, my, name, welcome, thank+you(specifically like this no other versions of thank you work), you, interpreter, me, meet, restroom, this
 
@@ -18,9 +23,9 @@ GoogleDrive: [Download](https://drive.google.com/file/d/1XkbukJH-xx8qgCM7yv9fJg2
 
 ## How to use 
 
-[1] Unzip the zip file and look for SignSpeak.exe
+1. Unzip the zip file and look for SignSpeak.exe (It is the only file with a blue icon similar to the logo above.)
 
-[2] Double-click SignSpeak.exe wait for it to load and after that, you'll know what to do 😉
+2. Double-click SignSpeak.exe wait for it to load and after that, you'll know what to do 😉
 
 
 If you still need more explicit directions I have attatched a link to a youtube video showing exactly what to do below.
