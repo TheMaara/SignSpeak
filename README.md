@@ -7,12 +7,14 @@
 
 ### Update 1: Now with speech recognition!
 
-### Speech to sign language video
+#### Speech to sign language video
 
 
 https://user-images.githubusercontent.com/68475422/235421658-8d5b3ab0-ab62-4baf-9268-bfcc3cfdb548.mp4
 
 
+
+### About
 
 The SignSpeak automated sign language interpreter now has voice to sign language capability as well as text to sign language.
 
