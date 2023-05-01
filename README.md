@@ -1,11 +1,11 @@
 # SignSpeak
 
-## The Alpha is here!
+## Now with speech recognition!
 
 ![signspeak6](https://user-images.githubusercontent.com/68475422/234178174-db0adc8a-7ca3-46ad-9054-745abb83fbd4.png)
 
 
-The SignSpeak text to sign language module takes in text and produces sign language output using a rendeered 3D model that uses a custom graphics engine and graphics pipeline.
+The SignSpeak automated sign language interpreter now has voice to sign language capability as well as text to sign language.
 
 It's an alpha and not a beta because it just demos the concept of what I am trying to achieve but is not yet ready for general public use. It exists for enthusiasts or people who are following the development of the project.
 
@@ -36,16 +36,18 @@ If you still need more explicit directions I have attatched a link to a youtube 
 
 ## Tech used
 
-The UI was made with kivy==2.1.0.
+The UI was made with Kivy.
 
 The graphics pipeline was adapted from code obtained from the kivy3 library.
 
 The animation code was adapted from xing-shuai's collada animator on github.
 
+NLP done with SpaCy.
+
+Offline speech recognition provided by Vosk models.
+
 
 ## The Future
-
-I shall now start working on fully-automatic voice to sign language based on the same system.
 
 I shall be adding more signs to it's vocabulary so that you can hold more meaningful conversations using this tool.
 
@@ -57,6 +59,3 @@ Send me an email at cubicmaara@gmail.com or a connect request on linkedin( [Mark
 
 
 Hasta la vista.
-
-
-
