@@ -2,18 +2,19 @@
 
 ## The Alpha is here!
 
-### Update 1: Now with speech recognition!
-
 ![signspeak6](https://user-images.githubusercontent.com/68475422/234178174-db0adc8a-7ca3-46ad-9054-745abb83fbd4.png)
 
 
-The SignSpeak automated sign language interpreter now has voice to sign language capability as well as text to sign language.
+### Update 1: Now with speech recognition!
 
 ### Speech to sign language video
 
 
 https://user-images.githubusercontent.com/68475422/235421658-8d5b3ab0-ab62-4baf-9268-bfcc3cfdb548.mp4
 
+
+
+The SignSpeak automated sign language interpreter now has voice to sign language capability as well as text to sign language.
 
 It's an alpha and not a beta because it just demos the concept of what I am trying to achieve but is not yet ready for general public use. It exists for enthusiasts or people who are following the development of the project.
 
