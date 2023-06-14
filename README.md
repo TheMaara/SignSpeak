@@ -28,6 +28,7 @@ The SignSpeak automated sign language interpreter now has voice to sign language
 It's an alpha and not a beta because it just demos the concept of what I am trying to achieve but is not yet ready for general public use. It exists for enthusiasts or people who are following the development of the project.
 
 It has a few signs loaded i.e: 
+
 'a', 'afternoon', 'b', 'body', 'boy', 'brother', 'c', 'can', 'child', 'children', 'd', 'day', 'days', 'e', 'end', 'evening', 'expressions', 'f', 'facial', 'false', 'family', 'father', 'fingerspell', 'finish', 'friday', 'from', 'g', 'go', 'good', 'goodbye', 'h', 'happy', 'have', 'hello', 'help', 'home', 'how', 'i', 'j', 'k', 'kenya', 'l', 'language', 'm', 'man', 'me', 'meeting', 'member', 'monday', 'morning', 'mother', 'my', 'n', 'name', 'next', 'nice', 'night', 'no', 'o', 'p', 'parent', 'please', 'practice', 'q', 'r', 's', 'sad', 'same', 'saturday', 'school', 'see', 'sign', 'sister', 'sorry', 'start_sign', 'sunday', 't', 'thanks', 'thursday', 'to', 'tomorrow', 'too', 'true', 'tuesday', 'u', 'v', 'w', 'watch', 'wednesday', 'week', 'welcome', 'what', 'with', 'woman', 'work',
 'x', 'y', 'yes', 'you', 'your', 'yours', 'z'
 
