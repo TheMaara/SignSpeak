@@ -4,6 +4,13 @@
 
 ![signspeak6](https://user-images.githubusercontent.com/68475422/234178174-db0adc8a-7ca3-46ad-9054-745abb83fbd4.png)
 
+### Update 2: Computer audio to sign language
+
+The program can now take your device's audio as input i.e. a video playing on your device online or offline, and use that sound as input for the speech recognotion system.
+
+Just make sure you have stereo mix enabled on your computer as a recording device.
+
+How to enable: control panel > Hardware and sound > Sound > Recording (tab on the pop-up that opens) >right-click stereo mix > enable
 
 ### Update 1: Now with speech recognition!
 
@@ -20,7 +27,9 @@ The SignSpeak automated sign language interpreter now has voice to sign language
 
 It's an alpha and not a beta because it just demos the concept of what I am trying to achieve but is not yet ready for general public use. It exists for enthusiasts or people who are following the development of the project.
 
-It has a few signs loaded i.e: the entire alphabet, hello, my, name, welcome, thank+you(specifically like this no other versions of thank you work), you, interpreter, me, meet, restroom, this
+It has a few signs loaded i.e: 
+'a', 'afternoon', 'b', 'body', 'boy', 'brother', 'c', 'can', 'child', 'children', 'd', 'day', 'days', 'e', 'end', 'evening', 'expressions', 'f', 'facial', 'false', 'family', 'father', 'fingerspell', 'finish', 'friday', 'from', 'g', 'go', 'good', 'goodbye', 'h', 'happy', 'have', 'hello', 'help', 'home', 'how', 'i', 'j', 'k', 'kenya', 'l', 'language', 'm', 'man', 'me', 'meeting', 'member', 'monday', 'morning', 'mother', 'my', 'n', 'name', 'next', 'nice', 'night', 'no', 'o', 'p', 'parent', 'please', 'practice', 'q', 'r', 's', 'sad', 'same', 'saturday', 'school', 'see', 'sign', 'sister', 'sorry', 'start_sign', 'sunday', 't', 'thanks', 'thursday', 'to', 'tomorrow', 'too', 'true', 'tuesday', 'u', 'v', 'w', 'watch', 'wednesday', 'week', 'welcome', 'what', 'with', 'woman', 'work',
+'x', 'y', 'yes', 'you', 'your', 'yours', 'z'
 
 ### Example sentences: 
 * Hello my name is _your name_ (Make sure to capitalise the first letter for it to detect that it is a proper noun).
